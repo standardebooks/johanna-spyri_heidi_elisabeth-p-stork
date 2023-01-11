@@ -70,10 +70,10 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#introduction">https://en.wikipedia.org/wiki/Charles_Wharton_Stork</meta>
 		<meta property="se:url.authority.nacoaf" refines="#introduction">http://id.loc.gov/authorities/names/no99015053</meta>
 		<meta property="role" refines="#introduction" scheme="marc:relators">aui</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Giovanni Segantini</dc:contributor>
+		<meta property="file-as" refines="#artist">Segantini, Giovanni</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Giovanni_Segantini</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n83019469</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Jason Isbell</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Isbell, Jason</meta>
