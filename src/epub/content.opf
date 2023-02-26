@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/johanna-spyri/heidi/elisabeth-p-stork</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2023-02-26T04:52:04Z</dc:date>
+		<meta property="dcterms:modified">2023-02-26T04:52:04Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -45,15 +45,15 @@
 		<dc:description id="description">A small girl is left with her grandfather and falls in love with his alpine home.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Looking after Heidi, a five year old orphan, has proved too much for her aunt Deta, so when the opportunity for a new position in Frankfurt comes up, Heidi is summarily deposited in the care of her grandfather. His hut high up in the Swiss alps lacks conventional comforts, but Heidi is nevertheless entranced by the meadows and fir trees, the friendly goats and local goatherd, the sweet-smelling hay that makes up her new bed, and the large chunks of toasted cheese the grandfather regularly doles out. This idyllic life is disrupted though, when Deta decides to collect Heidi to serve as a companion for a invalid girl in Frankfurt.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;Heidi&lt;/i&gt;, first published in two volumes, cemented &lt;a href="https://standardebooks.org/ebooks/johanna-spyri"&gt;Johanna Spyri’s&lt;/a&gt; reputation as a children’s novelist. As well as translations to many different languages, Heidi has been filmed, televised and produced for stage multiple times over. The Japanese translation lead to additional fame as a well regarded and widely distributed cartoon. Although Johanna Spyri only wrote this original Heidi story, it was continued posthumously by her French translator for a further six books.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Heidi&lt;/i&gt;, first published in two volumes, cemented &lt;a href="https://standardebooks.org/ebooks/johanna-spyri"&gt;Johanna Spyri’s&lt;/a&gt; reputation as a children’s novelist. As well as translations to many different languages, Heidi has been filmed, televised and produced for stage multiple times over. The Japanese translation lead to additional fame as a well regarded and widely distributed cartoon. Although Johanna Spyri only wrote this original Heidi story, her French translator continued the series posthumously for a further six books.&lt;/p&gt;
 			&lt;p&gt;This production is based on the Elisabeth &lt;abbr&gt;P.&lt;/abbr&gt; Stork translation for both its fluid prose and its accuracy to the original source.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/20781</dc:source>
 		<dc:source>https://archive.org/details/heidi00spyr_7</dc:source>
 		<meta property="se:production-notes">The introduction was dropped as it didn’t add much and referenced the illustrations in the source scans.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">50734</meta>
+		<meta property="se:reading-ease.flesch">82.85</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Heidi</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/johanna-spyri_heidi_elisabeth-p-stork</meta>
 		<dc:creator id="author">Johanna Spyri</dc:creator>
@@ -100,6 +100,10 @@
 		<meta property="se:role" refines="#producer-2" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-2" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
