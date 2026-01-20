@@ -53,7 +53,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/20781</dc:source>
 		<dc:source>https://archive.org/details/heidi00spyr_7</dc:source>
 		<meta property="se:production-notes">The introduction was dropped as it didn’t add much and referenced the illustrations in the source scans.</meta>
-		<meta property="se:word-count">50734</meta>
+		<meta property="se:word-count">50172</meta>
 		<meta property="se:reading-ease.flesch">82.85</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Heidi</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/johanna-spyri_heidi_elisabeth-p-stork</meta>
